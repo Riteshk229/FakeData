@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "posts": [
       { "id": 1, "title": "Post 1" },
@@ -12,3 +13,19 @@
       "name": "typicode"
     }
   }
+=======
+{
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
+>>>>>>> 2c4e7fad14e6bdb3b944eda4173fa127ee13133f
